@@ -55,9 +55,14 @@ while True:
 ```
 ## OUPUT
 SERVER
+
+
 <img width="885" height="311" alt="Screenshot 2026-02-13 130902" src="https://github.com/user-attachments/assets/7053e30d-a1b1-4e92-9bb8-1d5872395849" />
 
+
 CLIENT
+
+
 <img width="912" height="325" alt="Screenshot 2026-02-13 130928" src="https://github.com/user-attachments/assets/faa14632-5c2e-4de7-8c62-73d07d3d34f3" />
 
 
